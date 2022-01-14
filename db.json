@@ -1,0 +1,60 @@
+{
+  "practice": {
+    "items": {
+      "quotes": [
+        {
+          "quote": "I am the greatest",
+          "person": {
+            "name": "Winston Churchill",
+            "favouriteIceCream": "Vanilla"
+          },
+          "id": 1
+        },
+        {
+          "quote": "It's my life",
+          "person": {
+            "name": "John Lennon",
+            "favouriteIceCream": "Chocolate"
+          },
+          "id": 2
+        },
+        {
+          "quote": "What a wonderful world",
+          "person": {
+            "name": "George Orwell",
+            "favouriteIceCream": "Pistaccio"
+          },
+          "id": 3
+        }
+      ],
+      "images": [
+        {
+          "imgUrl": "https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
+          "id": 1
+        },
+        {
+          "imgUrl": "https://media.istockphoto.com/photos/curious-kitten-looking-at-the-camera-picture-id1270023880?k=20&m=1270023880&s=612x612&w=0&h=1DI96kH7DCKXWDR_SJK1PcNKAq6SPiO5ijp9N8dJ0Ls=",
+          "id": 2
+        },
+        {
+          "imgUrl": "https://media.istockphoto.com/photos/tabby-cat-hissing-on-a-tree-picture-id1038636576?s=612x612",
+          "id": 3
+        },
+        {
+          "imgUrl": "https://images.unsplash.com/photo-1601373878438-969856cc4d1e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+          "id": 4
+        }
+      ]
+    },
+    "birds": [
+      "pigeon",
+      "hawk",
+      "eagle",
+      "chicken",
+      "rooster",
+      "kokako",
+      "kiwi",
+      "duck"
+    ]
+  }
+}
